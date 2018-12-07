@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/baidu/baidu/DcsSampleApp/location/src/main/assets"/><source path="/Users/baidu/baidu/DcsSampleApp/location/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/baidu/baidu/DcsSampleApp/location/src/debug/assets"/></dataSet></merger>
