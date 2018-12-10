@@ -1,0 +1,5 @@
+# This file contains filenames and patterns which should be ignored by Git
+
+/app/build/
+/location/build/
+.idea/
